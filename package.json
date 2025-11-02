@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "blinktrade": "0.0.11",
+    "blinktrade": "1.0.0-rc.0",
     "colors": "^1.1.2",
     "columnify": "^1.5.4",
-    "eazy-logger": "^3.0.2",
+    "eazy-logger": "^4.1.0",
     "prompt": "^1.0.0"
   },
   "devDependencies": {
